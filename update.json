@@ -1,11 +1,11 @@
 {
-  "version": "0.1.3",
-  "notes": "Lanzamiento v0.1.3",
+  "version": "0.1.4",
+  "notes": "Lanzamiento v0.1.4",
   "pub_date": "2026-08-10T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmwrSjY1dlZwamhwL3FwdW9PTWtIcHZRZEdNM3FvS3J6YVVZK3g0Y3RQcDVpWnpzSjZjamJkYk5FWFl2T3d0VzBZemNwMWgxa25ZcmFESjZ0NmJjZkFqcHZRcXFuRmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2MzkwMzg3CWZpbGU6R0lUYWxsZXJfMC4xLjNfeDY0LXNldHVwLmV4ZQpqZDAvV1AxbGlwTWVxUkF3UTI1aXRWRXlHZXFZWndGOUlDYWJNTjRiTWNPamwxRWdzOG5KWHBwMHlBSWd5ck9DV1ZlbFBMQzdZUitoaWhZRHRVd1hEZz09Cg==",
-      "url": "https://github.com/Random-Dev143/taller_gestor_updates/releases/download/v0.1.3/GITaller_0.1.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUmwrSjY1dlZwanFxeVhwUmpNdkhEMG1GMVhYVkxzVFdGQi8yZkFIcE5DWnUrUjBWOXB2RkZkU2d0SnZ3cGRHMUZCSk1zb3ViM05aZHFTaG1sM2lYMjRaakpjOWNUNWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDM2ODg1CWZpbGU6R0lUYWxsZXJfMC4xLjRfeDY0LXNldHVwLmV4ZQowZzUxemJpNXVEdytVNTFTWGd5UzZpRFZPU3dGVVI5Mzg0MEZlWlV1UXRicXNzc3hMMCtJWllscE9XbjQ5TXU0Z1I2aTFhbXpuVkY4Q0NGWnRkOTlBQT09Cg==",
+      "url": "https://github.com/Random-Dev143/taller_gestor_updates/releases/download/v0.1.4/GITaller_0.1.4_x64-setup.exe"
     }
   }
 }
